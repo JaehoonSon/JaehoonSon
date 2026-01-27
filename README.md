@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaehoon</h1>
 <h3 align="center">Swarthmore College student | Aspiring intern | Web development & infrastructure enthusiast</h3>
 
-- 🔭 I’m currently working on **trading bot**
+- 🔭 I’m currently working on the **Lobe: Brain Training Games** mobile app — https://lobe.theblucks.com/en
 
 - 🌱 I’m currently learning **Kubernetes**
 
